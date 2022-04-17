@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033940898494",
+    "firebase_url": "https://notemakercom-default-rtdb.firebaseio.com",
+    "project_id": "notemakercom",
+    "storage_bucket": "notemakercom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033940898494:android:f852970207c4a89a0144ef",
+        "android_client_info": {
+          "package_name": "com.sahilhans0605.notemakercom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033940898494-oe3jk25b0i01pr9p0kkughqlql9m4t49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwoXzzSMVzlCa0isKj-dlae25EcgssVns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033940898494-oe3jk25b0i01pr9p0kkughqlql9m4t49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
